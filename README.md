@@ -1,7 +1,6 @@
-<!doctype html>
 <html>
-<head>
     <title>Assignment 1</title>
+    
     <style>.red{
     background-color: red;
       border: 10px orange ridge;
@@ -33,8 +32,6 @@ div{
         <div class = "blue"></div>
         <div class="green"></div>
        
+        </html>
         
-        
-    </body>
-
-</html>
+   
