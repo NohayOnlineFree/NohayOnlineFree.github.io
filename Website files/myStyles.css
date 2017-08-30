@@ -1,0 +1,25 @@
+.red{
+    background-color: red;
+      border: 10px orange ridge;
+}
+
+.blue{
+   background-color: blue;
+    border: 10px crimson double ;
+  
+}
+
+.green{
+     background-color: green;
+    border: 10px deeppink dotted;
+}
+
+div{
+    
+      width: 100px;
+    height: 100px;
+    float: left;
+    margin: 30px;
+    
+}
+
